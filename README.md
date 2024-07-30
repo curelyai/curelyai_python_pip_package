@@ -1,6 +1,6 @@
 # CurelyAI
 
-A Python client for Curely AI API.
+Curely AI Official Python SDK
 
 ## Installation
 
